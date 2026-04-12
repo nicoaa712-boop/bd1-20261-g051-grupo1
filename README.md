@@ -5,9 +5,13 @@ Proyecto:
 Red de Economía Apícola Productor-Consumidor: "API-KONECT"
 
 Integrantes: 
+
 Nicolas Andres Álvarez Chingate
+
 Julián Londoño
+
 Jeans Murillo
+
 Thomas Araque
 
 Descripcion del caso: 
