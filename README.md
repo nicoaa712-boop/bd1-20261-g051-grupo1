@@ -1,5 +1,5 @@
 # bd1-20261-g051-grupo1
-Aqui se encuentran los archivos de la tarea 2 de Bases de datos la cual trata sobre la implementación de una Base de Datos para una Red de Economía Apícola Productor-Consumidor: "API-KONECT"
+Aqui se encuentran los archivos de la tarea 2 y la tarea 4 de Bases de datos la cual trata sobre la implementación de una Base de Datos para una Red de Economía Apícola Productor-Consumidor: "API-KONECT"
 
 Proyecto:
 Red de Economía Apícola Productor-Consumidor: "API-KONECT"
